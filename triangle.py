@@ -5,3 +5,4 @@ height = float(input("Enter height number: "))
 triangle = .5 * base * height
 print("Area of triangle: = ", triangle)
 print("Testing")
+print("done")
